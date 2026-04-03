@@ -1,6 +1,6 @@
 #Get input from user - cast string to int
 temp = int(input('Enter temperature: '))
-#Set conoditions for the messages to be displayed
+#Set conditions for the messages to be displayed
 if temp < 0:
     print("It's freezing!")
 elif temp < 15:
