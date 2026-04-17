@@ -21,7 +21,7 @@ for (name, price, quantity), total in zip(cart, totals):
 #Calculate the grand total of the cart
 grand_total = sum(totals)
 #Print grand total
-print(f"Cart total: {grand_total:.2f}")
+print(f"Cart total: ${grand_total:.2f}")
 #Set conditions for displaying messages
 if grand_total > 15:
     print('Cart total over $15. Stay on budget!')
