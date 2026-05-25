@@ -1,4 +1,4 @@
-EX\_25APR - Playlist duration formatter
+EX\_25MAY - Playlist duration formatter
 
 You have a list of songs, each represented as a tuple of (title, duration\_in\_seconds).
 

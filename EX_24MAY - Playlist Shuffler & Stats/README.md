@@ -1,4 +1,4 @@
-EX\_24APR - Playlist Shuffler \& Stats
+EX\_24MAY - Playlist Shuffler \& Stats
 
 You have a list of songs (just strings). Write a program that:
 
